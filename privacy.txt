@@ -1,0 +1,2 @@
+This is just test app used to connect facebook to aws lex for chat bot internal implementation.
+
